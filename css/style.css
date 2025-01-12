@@ -304,7 +304,7 @@ body {
 
 /* responsiveness */
 
-@media (max-width: 1400px) {
+@media screen and (max-width: 890px) {
   .left {
     background-color: black;
     position: absolute;
